@@ -150,4 +150,4 @@ The complete **XPTUSD** archive on **[ork.ad](https://ork.ad/)** includes **13 O
 **[→ Get the full XPTUSD dataset on ork.ad](https://ork.ad/)**
 
 ---
-*GetData · XPTUSD 1m OHLCV sample on GitHub · Full historical data on [ork.ad](https://ork.ad/) · 2026-07-01 UTC*
+*GetData · XPTUSD 1m OHLCV sample on GitHub · Full historical data on [ork.ad](https://ork.ad/) · 2026-07-02 UTC*
