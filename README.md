@@ -28,7 +28,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [ork.ad](https://ork.ad/) every **Sunday**; GitHub `1m` sample updated in sync
 
-> **Sample on GitHub** · `XPTUSD_1m.csv` (173,955 rows, `2025-12-02` → `2026-06-02`). **Full archive on [ork.ad](https://ork.ad/)** — **4,736,622** `1m` rows (~251.9 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2008-11-09` → `2026-06-02`.
+> **Sample on GitHub** · `XPTUSD_1m.csv` (173,955 rows, `2025-12-02` → `2026-06-02`). **Full archive on [ork.ad](https://ork.ad/)** — **4,736,622** `1m` rows (~269.97 MB), **13 timeframes** (``1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W``), `2008-11-09` → `2026-06-02`.
 
 ## Download sample
 
@@ -45,7 +45,7 @@ Interactive chart & stats: **[https://ork-ad.github.io/xptusd-1m-ohlcv-metals-hi
 | Instrument | Platinum / US Dollar · Precious metals | Platinum / US Dollar · Precious metals |
 | Timeframes | `1m` only (sample) | **13** — `1m`, `3m`, `5m`, `15m`, `30m`, `1H`, `2H`, `4H`, `8H`, `12H`, `16H`, `1D`, `1W` |
 | 1m rows | 173,955 | **4,736,622** |
-| Size | 9.91 MB | ~251.9 MB |
+| Size | 9.91 MB | ~269.97 MB |
 | Period | `2025-12-02` → `2026-06-02` | `2008-11-09` → `2026-06-02` |
 | File | `XPTUSD_1m.csv` | ZIP on [ork.ad](https://ork.ad/) |
 | Updates | Weekly (Sunday) — GitHub sample | Weekly (Sunday) — all timeframes |
